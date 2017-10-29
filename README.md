@@ -1,5 +1,13 @@
 # Hosted Link
+## Dashboard
 http://ec2-54-252-243-233.ap-southeast-2.compute.amazonaws.com/
+
+## Additional Endpoints
+* a list of customers - [api/v1/customer/all](http://ec2-54-252-243-233.ap-southeast-2.compute.amazonaws.com/api/v1/customer/all)
+* total bets placed for a customer - [/api/v1/customer/bets/?customername=debojit](http://ec2-54-252-243-233.ap-southeast-2.compute.amazonaws.com/api/v1/customer/bets/?customername=debojit)
+* total amount bet per customer - [/api/v1/customer/bets/all](http://ec2-54-252-243-233.ap-southeast-2.compute.amazonaws.com/api/v1/customer/bets/all)
+* total amount bet for all customers - [/api/v1/customer/bets/all](http://ec2-54-252-243-233.ap-southeast-2.compute.amazonaws.com/api/v1/customer/bets/all)
+* at risk customer (customers that have bet over $200) - [/api/v1/customer/risk/?risk=red](http://ec2-54-252-243-233.ap-southeast-2.compute.amazonaws.com/api/v1/customer/risk/?risk=red)
 
 # Code Structure
 
