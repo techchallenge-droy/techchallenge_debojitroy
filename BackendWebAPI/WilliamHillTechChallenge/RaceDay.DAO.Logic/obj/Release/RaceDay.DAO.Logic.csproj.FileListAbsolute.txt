@@ -1,0 +1,8 @@
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.DAO.Logic\bin\Release\RaceDay.DAO.Logic.dll
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.DAO.Logic\bin\Release\RaceDay.DAO.Logic.pdb
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.DAO.Logic\bin\Release\RaceDay.DAO.Interfaces.dll
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.DAO.Logic\bin\Release\RaceDay.DAO.Interfaces.pdb
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.DAO.Logic\obj\Release\RaceDay.DAO.Logic.csprojResolveAssemblyReference.cache
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.DAO.Logic\obj\Release\RaceDay.DAO.Logic.csproj.CoreCompileInputs.cache
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.DAO.Logic\obj\Release\RaceDay.DAO.Logic.dll
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.DAO.Logic\obj\Release\RaceDay.DAO.Logic.pdb

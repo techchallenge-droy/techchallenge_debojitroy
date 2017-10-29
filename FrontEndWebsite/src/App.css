@@ -1,0 +1,87 @@
+.header {
+  display: flex;
+  width:95%;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  margin: 2%;
+  background-color: black;
+  color: white;
+  font-size: 500%;
+}
+
+.loading-inprogress {
+  font-size: 300%;
+  margin: 10%;
+}
+
+.loading-error {
+  font-size: 300%;
+  margin: 10%;
+}
+
+.race-container {
+  display: flex;
+  width:95%;
+  align-items: flex-start;
+  margin: 2%;
+  flex-flow: row wrap;
+  flex-basis: 100%;
+}
+
+.race-details {
+  display: flex;
+  flex-flow: column nowrap;
+  flex: auto;
+}
+
+.race-header {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  font-size: 150%;
+  margin: 1%;
+  padding: 1%;
+}
+
+.race-horse-details-container {
+  border: 1px solid black;
+  margin: 1%;
+  padding: 1%;
+}
+
+.race-horse-details-container th {
+  background-color: black;
+  color : white;
+  margin: 1%;
+  text-align: left;
+}
+
+.race-horse-details-container tbody > tr > td {
+  color: grey;
+}
+
+.column-one{
+  width: 50%;
+}
+
+.column-two {
+  width: 20%;
+}
+
+.column-three {
+  width: 30%
+}
+
+.status-completed {
+  color:#00bfff;
+}
+
+.status-pending {
+  color: #00ff73;
+}
+
+.status-inprogress {
+  color: red;
+}
+

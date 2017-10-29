@@ -1,0 +1,8 @@
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.Providers.Interfaces\bin\Release\RaceDay.Providers.Interfaces.dll
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.Providers.Interfaces\bin\Release\RaceDay.Providers.Interfaces.pdb
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.Providers.Interfaces\bin\Release\RaceDay.Models.dll
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.Providers.Interfaces\bin\Release\RaceDay.Models.pdb
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.Providers.Interfaces\obj\Release\RaceDay.Providers.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.Providers.Interfaces\obj\Release\RaceDay.Providers.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.Providers.Interfaces\obj\Release\RaceDay.Providers.Interfaces.dll
+C:\Users\debo.roy\source\repos\WilliamHillTechChallenge\RaceDay.Providers.Interfaces\obj\Release\RaceDay.Providers.Interfaces.pdb
